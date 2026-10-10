@@ -1,0 +1,6 @@
+name =input("Enter your name: ")
+city = input("Enter your city: ")
+profession = input("Enter your profession: ")
+print(f"Your name is, {name}")
+print(f"Your city is, {city}" )
+print(f"Your profession is, {profession}")
